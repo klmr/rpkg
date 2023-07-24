@@ -1,0 +1,10 @@
+Package: rpkg
+Version: 0.0.1
+Title: A Test Package
+Authors@R: person('John', 'Doe', email = 'john.doe@example.com', role =
+        c('aut', 'cre'))
+Description: This is a test package to test workflows that require a
+        small package as a dependency or similar.
+License: GPL (>= 2)
+Encoding: UTF-8
+RoxygenNote: 7.2.3
